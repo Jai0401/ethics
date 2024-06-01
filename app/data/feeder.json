@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "DEER",
+        "description": "Deer feeding bottle for babies",
+        "price": 50,
+        "image": "/FEEDING BOTTLE/1.DEER.png"
+    },
+    {
+        "id": 2,
+        "name": "UNICORN",
+        "description": "Unicorn feeding bottle for babies",
+        "price": 50,
+        "image": "/FEEDING BOTTLE/2.UNICORN.png"
+    },
+    {
+        "id": 3,
+        "name": "ZEBRA",
+        "description": "Zebra feeding bottle for babies",
+        "price": 50,
+        "image": "/FEEDING BOTTLE/3.ZEBRA.png"
+    },
+    {
+        "id": 4,
+        "name": "ELEPHANT",
+        "description": "Elephant feeding bottle for babies",
+        "price": 50,
+        "image": "/FEEDING BOTTLE/4.ELEPHANT.png"
+    },
+    {
+        "id": 5,
+        "name": "RHINO",
+        "description": "Rhino feeding bottle for babies",
+        "price": 50,
+        "image": "/FEEDING BOTTLE/5.RHINO.png"
+    }
+]
