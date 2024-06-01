@@ -3,10 +3,10 @@ import ProductCard  from './ProductCard';
 export function ProductCategory({ title, products }: { title: string, products: Array<any> }) {
   return (
     <>
-      <h2 className="text-2xl font-bold text-center mt-10 mb-6">{title}</h2>
       <div className="container mx-auto px-4">
+        <h2 className="text-3xl font-semibold text-center mt-10 mb-6 ml-4">{title}</h2>
         <div className="flex justify-center">
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8"> {/* Adjust gap as needed */}
             {products.map((product) => (
               <ProductCard
                 key={product.id}
@@ -15,7 +15,7 @@ export function ProductCategory({ title, products }: { title: string, products: 
                 title={product.name}
                 description={product.description}
                 linkUrl="#"
-                linkText="more info"
+                linkText="View Product"
               />
             ))}
           </div>

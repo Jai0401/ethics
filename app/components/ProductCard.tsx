@@ -13,9 +13,9 @@ type ProductCardProps = {
 
 const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, description, linkUrl, linkText }) => {
   return (
-    <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow transition delay-100 hover:scale-105">
+    <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow transition delay-00 hover:scale-105">
       <Link href={linkUrl}>
-          <Image className="rounded-t-lg" src={imageUrl} alt={imageAlt} width={400} height={250} />
+          <Image className="rounded-t-lg bg-[#F6F5F2]" src={imageUrl} alt={imageAlt} width={400} height={250} />
       </Link>
       <div className="p-5">
         <Link href={linkUrl}>

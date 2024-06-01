@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "SMALL",
+        "description": "Small Sized diapers for your baby",
+        "price": 50,
+        "image": "/DIAPER/10.S10.png"
+    },
+    {
+        "id": 2,
+        "name": "MEDIUM",
+        "description": "Medium Sized diapers for your baby",
+        "price": 60,
+        "image": "/DIAPER/11.M9.png"
+    },
+    {
+        "id": 3,
+        "name": "LARGE",
+        "description": "Large Sized diapers for your baby",
+        "price": 70,
+        "image": "/DIAPER/12.L8.png"
+    },
+    {
+        "id": 4,
+        "name": "EXTRA LARGE",
+        "description": "Extra Large Sized diapers for your baby",
+        "price": 80,
+        "image": "/DIAPER/13.XL7.png"
+    }
+]

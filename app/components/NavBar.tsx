@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function NavBar() {
     return (
-        <div className="p-4 shadow-md fixed w-full top-0 z-50 backdrop-filter backdrop-blur-lg bg-white bg-opacity-30">
+        <div className="p-4 shadow-md fixed w-full top-0 z-50 backdrop-filter backdrop-blur-lg bg-[#F6F5F2] bg-opacity-30">
             <div className="container mx-auto flex justify-between items-center">
                 <div className="text-2xl font-bold">
                     <Link href="/" className="text-black">
