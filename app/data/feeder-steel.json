@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Primo Mini Steel",
+        "description": "Primo mini fedding bottle for baby. It is made of steel and is very durable. It is also very easy to clean.",
+        "price": 100,
+        "image": "/3.STEEL FEEDER/1.PRIMO MINI STEEL FEEDER.png",
+        "imageDesc": "/3.STEEL FEEDER/1.PRIMO MINI.png"
+    },
+    {
+        "id": 2,
+        "name": "Primo Big Steel",
+        "description": "Primo big fedding bottle for baby. It is made of steel and is very durable. It is also very easy to clean.",
+        "price": 200,
+        "image": "/3.STEEL FEEDER/2.PRIMO BIG STEEL FEEDER.png",
+        "imageDesc": "/3.STEEL FEEDER/2.PRIMO BIG.png"
+    }
+]

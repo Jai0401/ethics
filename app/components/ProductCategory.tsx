@@ -16,6 +16,7 @@ export function ProductCategory({ title, products }: { title: string, products: 
                 description={product.description}
                 linkUrl="#"
                 linkText="View Product"
+                modalImageUrl={product.imageDesc}
               />
             ))}
           </div>
