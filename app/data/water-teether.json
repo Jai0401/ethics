@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Aeroplane Teether",
+        "price": 10.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/1.png",
+        "imageDesc": "/6.WATER TEETHER/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Apple Teether",
+        "price": 12.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/2.APPLE.png",
+        "imageDesc": "/6.WATER TEETHER/2.APPLE.png"
+    },
+    {
+        "id": 3,
+        "name": "Orange Teether",
+        "price": 14.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/3.ORANGE.png",
+        "imageDesc": "/6.WATER TEETHER/3.ORANGE.png"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry Teether",
+        "price": 16.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/4.STRAWBERRY.png",
+        "imageDesc": "/6.WATER TEETHER/4.STRAWBERRY.png"
+    },
+    {
+        "id": 5,
+        "name": "Green Mango Teether",
+        "price": 18.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/5.GREEN MANGO.png",
+        "imageDesc": "/6.WATER TEETHER/5.GREEN MANGO.png"
+    },
+    {
+        "id": 6,
+        "name": "Yellow Mango Teether",
+        "price": 20.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/6.YELLOW MANGO.png",
+        "imageDesc": "/6.WATER TEETHER/6.YELLOW MANGO.png"
+    },
+    {
+        "id": 7,
+        "name": "Grapes Teether",
+        "price": 22.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/7.GRAPES.png",
+        "imageDesc": "/6.WATER TEETHER/7.GRAPES.png"
+    },
+    {
+        "id": 8,
+        "name": "Pineapple Teether",
+        "price": 24.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/8.PINEAPPLE.png",
+        "imageDesc": "/6.WATER TEETHER/8.PINEAPPLE.png"
+    },
+    {
+        "id": 9,
+        "name": "Watermelon Teether",
+        "price": 26.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/9.WATERMELON.png",
+        "imageDesc": "/6.WATER TEETHER/9.WATERMELON.png"
+    },
+    {
+        "id": 10,
+        "name": "Double Cherry Teether",
+        "price": 28.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/10.DOUBLE CHEERRY.png",
+        "imageDesc": "/6.WATER TEETHER/10.DOUBE CHEERRY.png"
+    },
+    {
+        "id": 11,
+        "name": "Car Teether",
+        "price": 30.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/11.CAR.png",
+        "imageDesc": "/6.WATER TEETHER/11.CAR.png"
+    },
+    {
+        "id": 12,
+        "name": "Ball Teether",
+        "price": 32.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/12.BALL.png",
+        "imageDesc": "/6.WATER TEETHER/12.BALL.png"
+    },
+    {
+        "id": 13,
+        "name": "Flower Teether",
+        "price": 34.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/13.FLOWER.png",
+        "imageDesc": "/6.WATER TEETHER/13.FLOWER.png"
+    },
+    {
+        "id": 14,
+        "name": "Ice Cream Teether",
+        "price": 36.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/14.ICE CREAM.png",
+        "imageDesc": "/6.WATER TEETHER/14.ICE CREAM.png"
+    },
+    {
+        "id": 15,
+        "name": "Mobile Teether",
+        "price": 38.99,
+        "description": "A teether that soothes your baby's gums.",
+        "image": "/6.WATER TEETHER/15.MOBILE.png",
+        "imageDesc": "/6.WATER TEETHER/15.MOBILE.png"
+    }
+]

@@ -14,9 +14,10 @@ type ProductCardProps = {
   linkUrl: string;
   linkText: string;
   modalImageUrl: string; // Add a prop for the modal image
+  imgHeight?: number;
 };
 
-const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, description, linkUrl, linkText, modalImageUrl }) => {
+const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, description, linkUrl, linkText, modalImageUrl, imgHeight }) => {
   const [isModalVisible, setIsModalVisible] = useState(false);
 
   const handleShowMoreClick = () => {
@@ -30,7 +31,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, de
   return (
     <div className="max-w-sm bg-white border border-gray-200 rounded-lg transition delay-0 hover:shadow-xl">
       <Link href={linkUrl}>
-        <div className="relative w-full h-96">
+        <div className="relative w-full" style={{ height: imgHeight ? `${imgHeight}px` : '24rem' }}>
           <Image
             className="rounded-t-lg object-fill"
             src={imageUrl}
@@ -80,14 +81,5 @@ const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, de
     </div>
   );
 };
-
-// ProductCard.propTypes = {
-//   imageUrl: PropTypes.string.isRequired,
-//   imageAlt: PropTypes.string.isRequired,
-//   title: PropTypes.string.isRequired,
-//   description: PropTypes.string.isRequired,
-//   linkUrl: PropTypes.string.isRequired,
-//   linkText: PropTypes.string.isRequired,
-// };
 
 export default ProductCard;

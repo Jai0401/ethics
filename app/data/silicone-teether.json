@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Mix Silicone Teether",
+        "description": "Mixed silicone teether that soothes your baby's gums.",
+        "price": 100,
+        "image": "/7.SILICONE TEETHER/1.MIX.png",
+        "imageDesc": "/7.SILICONE TEETHER/5.ALL SILICONE TEETHER.png"
+    },
+    {
+        "id": 2,
+        "name": "Bear Silicone Teether",
+        "description": "Bear-shaped silicone teether that soothes your baby's gums.",
+        "price": 120,
+        "image": "/7.SILICONE TEETHER/2.BEER.png",
+        "imageDesc": "/7.SILICONE TEETHER/5.ALL SILICONE TEETHER.png"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit Silicone Teether",
+        "description": "Rabbit-shaped silicone teether that soothes your baby's gums.",
+        "price": 140,
+        "image": "/7.SILICONE TEETHER/3.RABBIT.png",
+        "imageDesc": "/7.SILICONE TEETHER/5.ALL SILICONE TEETHER.png"
+    },
+    {
+        "id": 4,
+        "name": "Apple Silicone Teether",
+        "description": "Apple-shaped silicone teether that soothes your baby's gums.",
+        "price": 160,
+        "image": "/7.SILICONE TEETHER/4.APPLE.png",
+        "imageDesc": "/7.SILICONE TEETHER/5.ALL SILICONE TEETHER.png"
+    },
+    {
+        "id": 5,
+        "name": "Apple Silicone Teether with Ratle",
+        "description": "Apple-shaped silicone teether with rattle that soothes your baby's gums.",
+        "price": 180,
+        "image": "/7.SILICONE TEETHER/6.APPLE.png",
+        "imageDesc": "/7.SILICONE TEETHER/9.ALL RATTLE TEETHER.png"
+    },
+    {
+        "id": 6,
+        "name": "Strawberry Silicone Teether with Ratle",
+        "description": "Strawberry-shaped silicone teether with rattle that soothes your baby's gums.",
+        "price": 200,
+        "image": "/7.SILICONE TEETHER/7.STRAWBERRY.png",
+        "imageDesc": "/7.SILICONE TEETHER/9.ALL RATTLE TEETHER.png"
+    },
+    {
+        "id": 7,
+        "name": "Oreo Silicone Teether with Ratle",
+        "description": "Oreo-shaped silicone teether with rattle that soothes your baby's gums.",
+        "price": 220,
+        "image": "/7.SILICONE TEETHER/8.OREO.png",
+        "imageDesc": "/7.SILICONE TEETHER/9.ALL RATTLE TEETHER.png"
+    }
+]

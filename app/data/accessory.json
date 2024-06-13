@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Sipper",
+        "price": 10.99,
+        "description": "Classic Sipper.",
+        "image": "/9.ACCESSORY/1.SIPPER.png",
+        "imageDesc": ""
+    },
+    {
+        "id": 2,
+        "name": "Spoon",
+        "price": 12.99,
+        "description": "Spoon.",
+        "image": "/9.ACCESSORY/2.SPOON.png",
+        "imageDesc": ""
+    },
+    {
+        "id": 3,
+        "name": "Milk Filter",
+        "price": 15.99,
+        "description": "Milk Filter.",
+        "image": "/9.ACCESSORY/3.MILK FILTER.png",
+        "imageDesc": "/9.ACCESSORY/3.MILK FILTER.png"
+    },
+    {
+        "id": 4,
+        "name": "LSR Spout",
+        "price": 5.99,
+        "description": "LSR Spout.",
+        "image": "/9.ACCESSORY/4.LSR SPOUT.png"
+    },
+    {
+        "id": 5,
+        "name": "Wide Mouth Nipple",
+        "price": 8.99,
+        "description": "Wide Mouth Nipple.",
+        "image": "/9.ACCESSORY/5.WIDE MOUTH NIPPLE.png",
+        "imageDesc": ""
+
+    }
+]

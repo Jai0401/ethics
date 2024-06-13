@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Panda Powder Puff",
+        "price": 10.99,
+        "description": "Classic powder puff that is perfect for applying powder on your baby's skin.",
+        "image": "/8.BABY CARE PRODUCT/1.PANDA POWDER PUFF 100MRP.png",
+        "imageDesc": "/8.BABY CARE PRODUCT/1.PANDA.png"
+    },
+    {
+        "id": 2,
+        "name": "Rabbit Musical Powder Puff",
+        "price": 12.99,
+        "description": "Musical powder puff that is perfect for applying powder on your baby's skin.",
+        "image": "/8.BABY CARE PRODUCT/2.RABBIT MUSICAL POWDER PUFF  150MRP.png",
+        "imageDesc": "/8.BABY CARE PRODUCT/2.RABBIT.png"
+    },
+    {
+        "id": 3,
+        "name": "Deluxe Breast Reliever",
+        "price": 15.99,
+        "description": "Breast reliever that is perfect for breastfeeding mothers.",
+        "image": "/8.BABY CARE PRODUCT/3.BREAST RELIVER 130MRP.png",
+        "imageDesc": "/8.BABY CARE PRODUCT/3.DBR.png"
+    },
+    {
+        "id": 4,
+        "name": "Cotton Baby Buds",
+        "price": 5.99,
+        "description": "Cotton baby buds that are perfect for cleaning your baby's ears.",
+        "image": "/8.BABY CARE PRODUCT/4.COTTON BABY BUDS MRP140.png",
+        "imageDesc": "/8.BABY CARE PRODUCT/4.COTTON BABY BUDS.png"
+    },
+    {
+        "id": 5,
+        "name": "Toy Teether Combo",
+        "price": 8.99,
+        "description": "Toy teether combo that is perfect for your baby's teething.",
+        "image": "/8.BABY CARE PRODUCT/5.TOY TEETHER COMBO 80MRP.png",
+        "imageDesc": "/8.BABY CARE PRODUCT/5.TOY TEETHER COMBO.png"
+    },
+    {
+        "id": 6,
+        "name": "Fruit Feeder&Nibbler",
+        "price": 7.99,
+        "description": "Fruit feeder and nibbler that is perfect for your baby's feeding.",
+        "image": "/8.BABY CARE PRODUCT/6.FRUIT FEEDER&NIBLER MRP200.png",
+        "imageDesc": "/8.BABY CARE PRODUCT/6.FRUIT FEEDER&NIBBLER.png"
+    }
+]

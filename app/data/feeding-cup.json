@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Nemo Ample Cup",
+        "description": "Nemo Ample Feeding Cup.",
+        "price": 100,
+        "image": "/5.FEEDING CUP/1.NEMO 120MRP.png",
+        "imageDesc": "/5.FEEDING CUP/1.NEMO.png"
+    },
+    {
+        "id": 2,
+        "name": "Dolphin 2 in 1 Cup",
+        "description": "Dolphin 2 in 1 Feeding Cup.",
+        "price": 150,
+        "image": "/5.FEEDING CUP/2.DOLPHIN 160MRP.png",
+        "imageDesc": "/5.FEEDING CUP/2.DOLPHIN.png"
+    },
+    {
+        "id": 3,
+        "name": "Sharko Sipper Cup",
+        "description": "Sharko Sipper Feeding Cup.",
+        "price": 200,
+        "image": "/5.FEEDING CUP/3.SHARKO 170MRP.png",
+        "imageDesc": "/5.FEEDING CUP/3.SHARKO.png"
+    }
+]
