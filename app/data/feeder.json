@@ -4,7 +4,7 @@
         "name": "DEER",
         "description": "Deer feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/1.DEER MRP60.png",
+        "image": "/1.FEEDING BOTTLE 125ML/1.DEER MRP60-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/1.DEER.png" 
     },
     {
@@ -12,7 +12,7 @@
         "name": "UNICORN",
         "description": "Unicorn feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/2.UNICORN MRP70.png",
+        "image": "/1.FEEDING BOTTLE 125ML/2.UNICORN MRP70-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/2.UNICORN.png"
     },
     {
@@ -20,7 +20,7 @@
         "name": "ZEBRA",
         "description": "Zebra feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/3.ZEBRA MRP80.png",
+        "image": "/1.FEEDING BOTTLE 125ML/3.ZEBRA MRP80-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/3.ZEBRA.png"
     },
     {
@@ -28,7 +28,7 @@
         "name": "ELEPHANT",
         "description": "Elephant feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/4.ELEPHANT MRP100.png",
+        "image": "/1.FEEDING BOTTLE 125ML/4.ELEPHANT MRP100-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/4.ELEPHANT.png"
     },
     {
@@ -36,7 +36,7 @@
         "name": "RHINO",
         "description": "Rhino feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/5.RHINO MRP110.png",
+        "image": "/1.FEEDING BOTTLE 125ML/5.RHINO MRP110-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/5.RHINO.png"
     },
     {
@@ -44,7 +44,7 @@
         "name":"LION",
         "description": "Lion feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/6.LION MRP120.png",
+        "image": "/1.FEEDING BOTTLE 125ML/6.LION MRP120-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/6.LION.png"
     },
     {
@@ -52,7 +52,7 @@
         "name": "LEOPARD",
         "description": "Leopard feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/7.LEOPARD MRP140.png",
+        "image": "/1.FEEDING BOTTLE 125ML/7.LEOPARD MRP150-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/7.LEOPARD.png"
     },
     {
@@ -60,7 +60,7 @@
         "name": "TIGER",
         "description": "Tiger feeding bottle for babies",
         "price": 50,
-        "image": "/1.FEEDING BOTTLE 125ML/8.TIGER MRP160.png",
+        "image": "/1.FEEDING BOTTLE 125ML/8.TIGER MRP170-FULL.png",
         "imageDesc":"/1.FEEDING BOTTLE 125ML/8.TIGER.png"
     },
     {
@@ -68,7 +68,7 @@
         "name": "CAMEL",
         "description": "Camel feeding bottle for babies(250ML)",
         "price": 50,
-        "image": "/2.FEEDING BOTTLE 250ML/1.CAMEL MRP80.png",
+        "image": "/2.FEEDING BOTTLE 250ML/1.CAMEL MRP80-FULL.png",
         "imageDesc":"/2.FEEDING BOTTLE 250ML/1.CAMEL.png"
     },
     {
@@ -76,7 +76,7 @@
         "name":"DIANO",
         "description": "Diano feeding bottle for babies",
         "price": 50,
-        "image": "/2.FEEDING BOTTLE 250ML/2.DIANO MRP90.png",
+        "image": "/2.FEEDING BOTTLE 250ML/2.DIANO MRP90-FULL.png",
         "imageDesc":"/2.FEEDING BOTTLE 250ML/2.DIANO.png"
     },
     {
@@ -84,7 +84,7 @@
         "name": "GIRAFFE",
         "description": "Giraffe feeding bottle for babies",
         "price": 50,
-        "image": "/2.FEEDING BOTTLE 250ML/3.GIRRAFE MRP110.png",
+        "image": "/2.FEEDING BOTTLE 250ML/3.GIRRAFE MRP110-full.png",
         "imageDesc":"/2.FEEDING BOTTLE 250ML/3.GIRRAFE.png"
     }
 ]

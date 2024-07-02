@@ -4,7 +4,7 @@
         "name": "Silicone Nipple",
         "description": "Silicone Nipple",
         "price": 1.99,
-        "image": "/4.NIPPLE&SOOTHER/1.SILICONE NIPPLE.png",
+        "image": "/4.NIPPLE&SOOTHER/1.SILICONE NIPPLE-FULL.png",
         "imageDesc": "/4.NIPPLE&SOOTHER/1.SILICONE NIPPLE.png"
     },
     {
@@ -12,7 +12,7 @@
         "name": "Liquid Silicone Nipple",
         "description": "Liquid Silicone Nipple",
         "price": 2.99,
-        "image": "/4.NIPPLE&SOOTHER/2.LIQUID SILICONE NIPPLE.png",
+        "image": "/4.NIPPLE&SOOTHER/2.LIQUID SILICONE NIPPLE-FULL.png",
         "imageDesc": "/4.NIPPLE&SOOTHER/2.LIQUID SILICONE NIPPLE.png"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Classic Soother Nipple",
         "description": "Classic Soother Nipple",
         "price": 3.99,
-        "image": "/4.NIPPLE&SOOTHER/3.CLASSIC SOOTHER NIPPLE.png",
+        "image": "/4.NIPPLE&SOOTHER/3.CLASSIC SOOTHER NIPPLE-FULL.png",
         "imageDesc": "/4.NIPPLE&SOOTHER/3.CLASSIC SOOTHER NIPPLE.png"
     },
     {
@@ -28,7 +28,7 @@
         "name": "Deluxe Soother Nipple",
         "description": "Deluxe Soother Nipple",
         "price": 4.99,
-        "image": "/4.NIPPLE&SOOTHER/4.DELUXE SOOTHER NIPPLE.png",
+        "image": "/4.NIPPLE&SOOTHER/4.DELUXE SOOTHER NIPPLE-FULL.png",
         "imageDesc": "/4.NIPPLE&SOOTHER/4.DELUXE SOOTHER NIPPLE.png"
     },
     {
@@ -36,7 +36,7 @@
         "name": "LSR Spout",
         "description": "LSR Spout",
         "price": 5.99,
-        "image": "/4.NIPPLE&SOOTHER/5.LSR SPOUT.png",
+        "image": "/4.NIPPLE&SOOTHER/5.LSR SPOUT-FULL.png",
         "imageDesc": "/4.NIPPLE&SOOTHER/5.LSR SPOUT.png"
     },
     {
@@ -44,7 +44,7 @@
         "name": "Wide Mouth LSR nipple",
         "description": "Wide Mouth LSR nipple",
         "price": 6.99,
-        "image": "/4.NIPPLE&SOOTHER/6.WIDE MOUTH LSR NIPPLE.png",
+        "image": "/4.NIPPLE&SOOTHER/6.WIDE MOUTH LSR NIPPLE-FULL.png",
         "imageDesc": "/4.NIPPLE&SOOTHER/6.WIDE MOUTH LSR NIPPLE.png"
     }
 ]

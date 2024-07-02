@@ -33,7 +33,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, de
       <Link href={linkUrl}>
         <div className="relative w-full" style={{ height: imgHeight ? `${imgHeight}px` : '24rem' }}>
           <Image
-            className="rounded-t-lg object-fill"
+            className="rounded-t-lg object-cover"
             src={imageUrl}
             alt={imageAlt}
             layout="fill"
@@ -51,7 +51,10 @@ const ProductCard: React.FC<ProductCardProps> = ({ imageUrl, imageAlt, title, de
         </p>
         <button
           onClick={handleShowMoreClick}
-          className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white rounded-md transition delay-500 bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-blue-500 hover:to-cyan-500 focus:ring-4 focus:outline-none focus:ring-blue-300"
+          className="inline-flex items-center px-3 py-2 text-sm 
+          font-medium text-center text-white rounded-md transition delay-500 
+          bg-gradient-to-r from-cyan-500 to-blue-500 hover:from-blue-500 hover:to-cyan-500 
+          focus:ring-4 focus:outline-none focus:ring-blue-300"
         >
           {linkText}
           <svg

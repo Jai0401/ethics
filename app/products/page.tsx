@@ -7,7 +7,6 @@ import feedingCup from '../data/feeding-cup.json';
 import waterTeether from '../data/water-teether.json';
 import siliconeTeether from '../data/silicone-teether.json';
 import babyCare from '../data/baby-care.json';
-import accessory from '../data/accessory.json';
 
 
 export default function Products() {
@@ -22,7 +21,6 @@ export default function Products() {
       <ProductCategory title="Baby Care Products" products={babyCare} imgHeight={280}/>
       <ProductCategory title="Nipple&Soother" products={nippleSoother} imgHeight={230}/>
       <ProductCategory title="Baby Diapers" products={diaper} />
-      <ProductCategory title="Accessories" products={accessory} />
     </>
   );
 }
