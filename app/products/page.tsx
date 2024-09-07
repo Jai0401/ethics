@@ -11,8 +11,8 @@ import babyCare from '../data/baby-care.json';
 
 export default function Products() {
   return (
-    <>
-      <h1 className="text-5xl font-semibold text-center mt-10 mb-6">Products</h1>
+    <div className=" mt-28 mb-8">
+      <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center">Products</h1>
       <ProductCategory title="Feeding Bottles" products={feeder} />
       <ProductCategory title="Feeding Bottles (Steel)" products={feederSteel} />
       <ProductCategory title="Feeding Cup" products={feedingCup} imgHeight={280}/>
@@ -21,6 +21,6 @@ export default function Products() {
       <ProductCategory title="Baby Care Products" products={babyCare} imgHeight={280}/>
       <ProductCategory title="Nipple&Soother" products={nippleSoother} imgHeight={230}/>
       <ProductCategory title="Baby Diapers" products={diaper} />
-    </>
+    </div>
   );
 }

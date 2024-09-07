@@ -13,7 +13,7 @@ export function ProductCategory({ title, products, imgHeight }: { title: string,
     return (
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between mt-10 mb-6 cursor-pointer" onClick={toggleCollapse}>
-          <h2 className="text-3xl font-semibold">{title}</h2>
+          <h2 className="text-2xl font-semibold tracking-tighter">{title}</h2>
           {/* <span className="text-xl">{isCollapsed ? '▼' : '▲'}</span> */}
         </div>
         {!isCollapsed && (
