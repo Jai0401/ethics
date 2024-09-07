@@ -23,7 +23,7 @@ export default function Featured() {
           {/* <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">
             Teethers
           </div> */}
-          <h3 className="text-2xl font-bold">Unmatched Quality for Your Little One
+          <h3 className="text-2xl font-bold">Unmatched Quality for Your Little One&apos;s
           </h3>
           <p className="text-muted-foreground">
           At Me&Mummy, we pride ourselves on providing only the best for your baby. From soft, absorbent diapers to soothing teethers and durable feeding bottles, every product is crafted with care and precision to ensure the utmost comfort and safety for your child.</p>
@@ -71,7 +71,7 @@ export default function Featured() {
           {/* <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">Feeding</div> */}
           <h3 className="text-2xl font-bold">Explore Our Range Today</h3>
           <p className="text-muted-foreground">
-          Whether you're a new parent or looking to upgrade your baby essentials, Me&Mummy has everything you need. Our diverse product range is designed to support your baby's growth and development every step of the way. Visit us and discover the difference quality makes.</p>
+          Whether you&apos;re a new parent or looking to upgrade your baby essentials, Me&Mummy has everything you need. Our diverse product range is designed to support your baby&apos;s growth and development every step of the way. Visit us and discover the difference quality makes.</p>
           <Link
             href="/products"
             className="inline-flex h-10 items-center justify-center rounded-md bg-black px-8 text-sm font-medium text-white shadow transition-colors hover:bg-black/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"            prefetch={false}
