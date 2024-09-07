@@ -56,7 +56,7 @@ export default function Featured() {
           {/* <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">Toys</div> */}
           <h3 className="text-2xl font-bold">Why Choose Me&Mummy?</h3>
           <p className="text-muted-foreground">
-          Our commitment to quality sets us apart. Each item is rigorously tested to meet the highest standards, giving you peace of mind. Our products are made from safe, non-toxic materials, ensuring your baby's health is never compromised. We believe in offering nothing but the best because your baby deserves it.</p>
+          Our commitment to quality sets us apart. Each item is rigorously tested to meet the highest standards, giving you peace of mind. Our products are made from safe, non-toxic materials, ensuring your baby&apos;s health is never compromised. We believe in offering nothing but the best because your baby deserves it.</p>
           {/* <Link
             href="/products/#teethers"
             className="inline-flex h-10 items-center justify-center rounded-md bg-black px-8 text-sm font-medium text-white shadow transition-colors hover:bg-black/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"            prefetch={false}
