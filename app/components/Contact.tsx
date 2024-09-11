@@ -24,11 +24,24 @@ const Contact = () => {
   };
 
   return (
-    <div className="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+    <div className="bg-gray-100 flex items-center justify-center min-h-screen p-4 pt-24">
       <div className="bg-white rounded-lg shadow-md p-8 max-w-md w-full">
         <h1 className="text-3xl font-bold mb-2">Contact Us</h1>
         <p className="text-gray-600 mb-6">Fill out the form below and we&apos;ll get back to you as soon as possible.</p>
+
+        {/* Customer Care Section */}
+        <div className="mb-6">
+          <h2 className="text-xl font-semibold">Customer Care</h2>
+          <p className="text-gray-600">For any inquiries, feel free to reach out to us:</p>
+          <p className="text-gray-600">
+            <strong>Phone:</strong> <a href="tel:+9009578008" className="text-indigo-500">9009578008</a>
+          </p>
+          <p className="text-gray-600">
+            <strong>Email:</strong> <a href="mailto:sales.ethicspharma@gmail.com" className="text-indigo-500">sales.ethicspharma@gmail.com</a>
+          </p>
+        </div>
         
+        {/* Contact Form */}
         <form onSubmit={handleSubmit}>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
             <div>
