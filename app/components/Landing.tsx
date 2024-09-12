@@ -1,10 +1,22 @@
-import React from 'react';
+"use client";
+import React,{useEffect} from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import Footer from './Footer';
 import Featured from './Featured';
 
 export default function Landing() {
+  useEffect(() => {
+    fetch("/api/count")
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`HTTP error! status: ${res.status}`);
+        }
+        return res.json(); // Parse JSON response
+      })
+      .then((data) => console.log({visitors:data.count}))
+      .catch((error) => console.error("Error fetching count:", error));
+  }, []);
+
   return (
     <>
         <section className="w-full mt-32 mb-10 flex justify-center">
