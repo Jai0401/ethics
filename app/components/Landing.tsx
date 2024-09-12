@@ -5,17 +5,15 @@ import Link from 'next/link';
 import Featured from './Featured';
 
 export default function Landing() {
-  useEffect(() => {
-    fetch("/api/count")
-      .then((res) => {
-        if (!res.ok) {
-          throw new Error(`HTTP error! status: ${res.status}`);
-        }
-        return res.json(); // Parse JSON response
-      })
-      .then((data) => console.log({visitors:(data.count)}))
-      .catch((error) => console.error("Error fetching count:", error));
-  }, []);
+  fetch("/api/count")
+    .then((res) => {
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+      return res.json(); // Parse JSON response
+    })
+    .then((data) => console.log({visitors:(data.count)}))
+    .catch((error) => console.error("Error fetching count:", error));
 
   return (
     <>
