@@ -13,7 +13,7 @@ export default function Landing() {
         }
         return res.json(); // Parse JSON response
       })
-      .then((data) => console.log({visitors:data.count}))
+      .then((data) => console.log({visitors:(data.count)}))
       .catch((error) => console.error("Error fetching count:", error));
   }, []);
 
